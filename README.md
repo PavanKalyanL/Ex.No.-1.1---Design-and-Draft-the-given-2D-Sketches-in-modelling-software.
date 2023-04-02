@@ -43,7 +43,7 @@ To sketch the given drawing with dimensions using fusion 360 tool.
 
 ## OUTPUT
 
-![](Ex_1.2 Drawing v1_pavan.jpg)
+![](Ex_1.1_pavan.jpg)
 
 ## RESULT
 Thus the given sketch is drawn and drafted using fusion 360 tool.
